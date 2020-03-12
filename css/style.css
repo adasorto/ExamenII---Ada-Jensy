@@ -1,0 +1,22 @@
+:root{
+    --blue: #0264fb;
+    --orange: #ffb03a;
+    --black: #000000;
+    --gray: #4b4b4b;
+    --white: #ffffff;
+}
+
+html{
+    box-sizing: border-box;
+
+    *,
+    *:before,
+    *:after
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
